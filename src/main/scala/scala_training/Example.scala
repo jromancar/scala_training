@@ -1,9 +1,8 @@
-package example
+package scala_training
 
 /**
   * Created by javier on 01/12/2016.
   */
 object Example extends App{
-  println("hola Mundo")
-  println("hola Mundo2")
+  println("esto es una prueba")
 }
